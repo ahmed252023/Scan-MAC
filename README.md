@@ -34,7 +34,7 @@ pyfiglet
 🛠️ How to Use
 Clone the repository:
 
-git clone https://github.com/yourusername/scan-mac.git
+git clone https://github.com/ahmed252023/scan-mac.git
 cd scan-mac
 Install dependencies:
 
